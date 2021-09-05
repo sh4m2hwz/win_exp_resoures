@@ -1,3 +1,3 @@
 # win_exp_resoures
-Windows exploitation resources
-view win_exp.txt
+Windows exploitation resources.
+View win_exp.txt
