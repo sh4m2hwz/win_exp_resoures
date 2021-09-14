@@ -82,6 +82,7 @@ windows internals: {
 					https://www.expertdebugging.com/windbgvideos
 					https://github.com/hugsy/defcon_27_windbg_workshop/blob/master/windbg_cheatsheet.md
 					https://github.com/bulentkazanci/Cheat-Sheet-Windbg
+					https://devblogs.microsoft.com/oldnewthing/20070427-00/?p=27083
 					plugins and extensions: {
 						https://github.com/Byzero512/peda-windows/tree/master/windbg/bywin
 						https://github.com/microsoft/DbgShell
