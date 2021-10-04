@@ -1,5 +1,6 @@
 pre-exploitation: {
 	references: {
+                https://github.com/dhn/OSEE
 		https://github.com/FULLSHADE/WindowsExploitationResources/
 		https://github.com/hacksysteam/Exploitation
 		https://github.com/gavz/awesome-windows-exploitation
